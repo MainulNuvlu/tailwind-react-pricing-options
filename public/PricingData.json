@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Basic",
+        "price": "$29/mo",
+        "description": "Perfect for beginners starting their fitness journey.",
+        "features": [
+            "Unlimited access to gym equipment during open hours",
+            "Locker room access on visit",
+            "1 fitness assessment per month",
+            "Open access 5 days/week (Mon–Fri)",
+            "2 group classes per month",
+            "Cardio zone access (max 20 members at a time)",
+            "Access to water station",
+            "Basic workout plan PDF"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Standard",
+        "price": "$49/mo",
+        "popular": true,
+        "description": "For regulars looking to stay consistent.",
+        "features": [
+            "Unlimited access to gym equipment",
+            "Full locker room access",
+            "Unlimited group classes",
+            "Free Wi-Fi inside the gym",
+            "Open access 7 days/week",
+            "Yoga studio access (max 12 members per class)",
+            "Access to mobile app for tracking progress",
+            "1 guest pass per month"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Premium",
+        "price": "$79/mo",
+        "description": "For those wanting the full gym experience.",
+        "features": [
+            "2 personal training sessions per month",
+            "Unlimited sauna & steam room (30 min/day)",
+            "1 nutrition consultation per month",
+            "Unlimited priority access to group classes",
+            "24/7 full equipment access",
+            "Spin class access (max 10 members per class)",
+            "Free branded gym merchandise",
+            "3 guest passes per month",
+            "Exclusive access to member-only workshops"
+        ]
+    }
+]
